@@ -56,7 +56,14 @@
                 "username": "Ngo Song Viet Hoang#1744",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
+            },
+            {
+                "network": "Upwork",
+                "username": "Ngo Song Viet Hoang#1744",
+                "url": "www.upwork.com/freelancers/edwardngo115",
+                "x_icon": "fab fa-upwork"
             }
+
         ]
     },
     "work": [

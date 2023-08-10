@@ -27,46 +27,24 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     { 
       id: 1,
-      title: 'React Portfolio', 
-      description: `Designed and developed a ReactJS portfolio 
-      with fancy 3D animations using Three.js for 
-      the background element.`,
+      title: 'European Parlianment Amendment Analyser', 
+      description: `Convert amendment document in https://www.europarl.europa.eu/portal/en into structured format for later usage`,
       alter: 'React Portfolio',
       image: `${Portfolio}`,
     },
     { 
       id: 2,
-      title: 'VeriTru Project', 
-      description: `An advocacy project website built using
-      MEAN stack with fact-checking tool to promote actions against
-      fake news.`,
+      title: 'Digital Signature and private CA', 
+      description: `Enable user in a organizationn to sign valid document with their cerfiticate and key issued by its CA`,
       alter: 'VeriTru Project',
       image: `${Veritru}`,
     },
     { 
       id: 3,
-      title: 'LoFo Project', 
-      description: `Logistics and Forwarding website built using
-      ReactJS to design and develop its front-end.`,
+      title: 'Devops pipeline', 
+      description: `Deploy microservice to GKE, enable CI/CD pipeline, monitor log, Iac with Terraform`,
       alter: 'LoFo Project',
       image: `${Lofo}`,
-    },
-    { 
-      id: 4,
-      title: 'Startup Project', 
-      description: `A website portfolio project for the Startup Dev Team
-      built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
-      alter: 'Startup Project',
-      image: `${Startup}`,
-    },
-    { 
-      id: 5,
-      title: 'LaCalle Cafe', 
-      description: `A website project for the La Calle Cafe business
-      built using Wordpress and PHP with integrated SEO tools to help
-      the business ramp up its prospects and lead generation.`,
-      alter: 'Startup Project',
-      image: `${Lacalle}`,
     },
   ]);
 

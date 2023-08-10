@@ -1,15 +1,15 @@
 {
     "basics": {
-        "name": "Mark Tan",
-        "label": "Web Developer",
-        "email": "markcmtan@gmail.com",
+        "name": "Ngo Song Viet Hoang (Edward Ngo)",
+        "label": "Backend developer | Devops",
+        "email": "hoangnsv115.cs@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
-        "job1": "Web",
-        "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
-        "summary": "based in Angeles, Philippines.",
+        "job1": "Backend",
+        "job2": "Devops",
+        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to provide solution on system design, infra, backend stufff.",
+        "summary": "based in Hanoi, Vietnam.",
         "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
         "url": "https://taniyow.vercel.app/",
         "location": {

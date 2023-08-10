@@ -8,9 +8,9 @@ import { TextDecrypt } from "../content/TextDecrypt";
 import './Works.css';
 
 // Import ../../assets/recentprojects/
-import Portfolio from '../../assets/recentprojects/epaa.png';
+import Portfolio from '../../assets/recentprojects/startup.png';
 import Veritru from '../../assets/recentprojects/veritru.png';
-import Lofo from '../../assets/recentprojects/devops.png';
+import Lofo from '../../assets/recentprojects/lofo.png';
 
 const useStyles = makeStyles((theme) => ({
   main: {

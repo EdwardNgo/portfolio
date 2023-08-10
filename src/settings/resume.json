@@ -15,9 +15,9 @@
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Angeles",
-            "country": "Philippines",
-            "countryCode": "PH",
+            "city": "Hanoi",
+            "country": "Vietnam",
+            "countryCode": "Vi",
             "region": "Pampanga"
         },
         "profiles": [
@@ -60,7 +60,7 @@
             {
                 "network": "Upwork",
                 "username": "Ngo Song Viet Hoang#1744",
-                "url": "www.upwork.com/freelancers/edwardngo115",
+                "url": "https://www.upwork.com/freelancers/edwardngo115",
                 "x_icon": "fab fa-upwork"
             }
 

@@ -1,6 +1,6 @@
 {
     "basics": {
-        "name": "Ngo Song Viet Hoang (Edward Ngo)",
+        "name": "Edward Ngo",
         "label": "Backend developer | Devops",
         "email": "hoangnsv115.cs@gmail.com",
         "phone": "(XXX) XXX-XXXX",
@@ -23,37 +23,37 @@
         "profiles": [
             {
                 "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
+                "username": "hoangnsv115.cs@gmail.com",
+                "url": "mailto:hoangnsv115.cs@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "username": "ed-ng115",
+                "url": "https://www.linkedin.com/in/ed-ng115/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "EdwardNgo",
+                "url": "https://github.com/EdwardNgo",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "GitLab",
                 "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
+                "url": "https://gitlab.com/hoangso8000",
                 "x_icon": "fab fa-gitlab"
             },
             {
                 "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
+                "username": "Edward Ngo",
+                "url": "https://t.me/Edng115",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
                 "network": "Discord",
-                "username": "taniyow#9142",
+                "username": "Ngo Song Viet Hoang#1744",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
             }
